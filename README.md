@@ -13,7 +13,7 @@
 - 🔍 [Deep Research Agent](https://github.com/saavaniv/Deep-Research-Agent)  
   Multi-agent research assistant using LangGraph + LangChain + GPT-4o-mini to generate structured and citation-rich reports  
 
-- ⚖️ [AI Immigration Assistant](https://github.com/saavaniv/AI-Immigration-Assistant)  
+- 🌎 [AI Immigration Assistant](https://github.com/saavaniv/AI-Immigration-Assistant)  
   RAG pipeline with Pinecone + Azure OpenAI + GCP for legal document explanation, PDF highlighting, and chatbot Q&A  
 
 - 📈 [Algorithmic Trading with LSTM](https://github.com/YOUR_GITHUB_USERNAME/algorithmic-trading-lstm)  
