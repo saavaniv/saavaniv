@@ -22,7 +22,7 @@
 - 💻 [ChatDB](https://github.com/YOUR_GITHUB_USERNAME/chatdb)  
   Web app on AWS that converts natural language into SQL/NoSQL queries over uploaded datasets  
 
-- 🖼️ [Scene Classification with Transfer Learning](https://github.com/YOUR_GITHUB_USERNAME/scene-classification-transfer)  
+- 🖼️ [Scene Classification with Transfer Learning](https://github.com/saavaniv/Scene-Classification)  
   Multi-class image classifier using transfer learning with pre-trained CNNs and advanced augmentation  
 
 - 📚 [Semantic Search AI Chatbot (PDF + Web)](https://github.com/YOUR_GITHUB_USERNAME/semantic-search-chatbot)  
