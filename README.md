@@ -10,7 +10,7 @@
 
 ## 👩‍💻 Recent Projects 
 
-- 🔍 [Deep Research Agent](https://github.com/saavaniv/deep-research-agent)  
+- 🔍 [Deep Research Agent](https://github.com/saavaniv/Deep-Research-Agent)  
   Multi-agent research assistant using LangGraph + LangChain + GPT-4o-mini to generate structured and citation-rich reports  
 
 - ⚖️ [AI Immigration Assistant](https://github.com/YOUR_GITHUB_USERNAME/ai-immigration-assistant)  
